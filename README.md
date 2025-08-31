@@ -46,17 +46,21 @@ data-insights-livros/
    ```bash
    git clone https://github.com/daneroberti/data-insights-livros.git
 
-## 🚧 Status do Projeto
+## 🎥 Demonstração
 
-Esse projeto ainda tá em construção!  
-Já organizamos os arquivos, criamos a base do dashboard e começamos a montar as medidas DAX. Mas ainda tem bastante coisa pra ajustar, testar e deixar bonito.
+Veja o funcionamento do dashboard:
 
-Próximos passos:
-- Refinar os visuais no Power BI
-- Ajustar as medidas e KPIs
-- Documentar os scripts SQL
-- Deixar o layout mais intuitivo e navegável
+[📺 Assistir vídeo](demo/visao-geral.mp4)
 
-Se quiser acompanhar a evolução ou dar sugestões, chega junto! 😄
+
+---
+
+## ✅ Conclusão
+
+Este projeto foi desenvolvido integralmente por mim, desde a coleta e tratamento dos dados até a análise exploratória, modelagem e construção do dashboard final. Cada etapa foi pensada para extrair insights relevantes e comunicar os resultados de forma clara e objetiva.
+
+Fico à disposição para dúvidas, sugestões ou colaborações futuras!
+
+
 
 
